@@ -1,0 +1,14 @@
+D:\Users\niuniu~\source\课后案例\ConsoleExample4\bin\Debug\ConsoleExample4.exe.config
+D:\Users\niuniu~\source\课后案例\ConsoleExample4\bin\Debug\ConsoleExample4.exe
+D:\Users\niuniu~\source\课后案例\ConsoleExample4\bin\Debug\ConsoleExample4.pdb
+D:\Users\niuniu~\source\课后案例\ConsoleExample4\obj\Debug\ConsoleExample4.csprojAssemblyReference.cache
+D:\Users\niuniu~\source\课后案例\ConsoleExample4\obj\Debug\ConsoleExample4.csproj.CoreCompileInputs.cache
+D:\Users\niuniu~\source\课后案例\ConsoleExample4\obj\Debug\ConsoleExample4.exe
+D:\Users\niuniu~\source\课后案例\ConsoleExample4\obj\Debug\ConsoleExample4.pdb
+E:\C#\课后案例\ConsoleApp4\ConsoleExample4\bin\Debug\ConsoleExample4.exe.config
+E:\C#\课后案例\ConsoleApp4\ConsoleExample4\bin\Debug\ConsoleExample4.exe
+E:\C#\课后案例\ConsoleApp4\ConsoleExample4\bin\Debug\ConsoleExample4.pdb
+E:\C#\课后案例\ConsoleApp4\ConsoleExample4\obj\Debug\ConsoleExample4.csprojAssemblyReference.cache
+E:\C#\课后案例\ConsoleApp4\ConsoleExample4\obj\Debug\ConsoleExample4.csproj.CoreCompileInputs.cache
+E:\C#\课后案例\ConsoleApp4\ConsoleExample4\obj\Debug\ConsoleExample4.exe
+E:\C#\课后案例\ConsoleApp4\ConsoleExample4\obj\Debug\ConsoleExample4.pdb
